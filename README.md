@@ -1,11 +1,11 @@
 <!-- 🚀 Shadow@Bhanu 😈 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+Shadow+Junior+%7C+Bhanu+Guragain+%E2%9A%A1;Cyber+Security+%7C+AI+%7C+Automation;Exploiting+%26+Securing+the+Future!" alt="Shadow Junior | Bhanu Guragain">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2800&color=00FF00&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%A1+Shadow+Junior+%7C+Bhanu+Guragain+%E2%9A%A1;Cyber+Security+%7C+AI+%7C+Automation;Exploiting+%26+Securing+the+Future!" alt="Shadow Junior | Bhanu Guragain">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Hacker Vibes">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="650" alt="Hacker Vibes">
 </p>
 
 <p align="center">
@@ -13,8 +13,6 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=BhanuGuragain0" alt="Visitor Badge"/>
   </a>
 </p>
-
----
 
 ---
 
