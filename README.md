@@ -93,9 +93,6 @@ I specialize in **offensive security**, building **custom C2 frameworks**, and c
   <a href="https://www.credly.com/badges/your-badge-id">
     <img src="https://img.shields.io/badge/OSCP-FFD43B?style=for-the-badge&logo=linux&logoColor=black" alt="OSCP Preparing">
   </a>
-  <a href="https://www.credly.com/badges/your-badge-id">
-    <img src="https://img.shields.io/badge/CEH-FF6F61?style=for-the-badge&logo=linux&logoColor=white" alt="CEH Certified">
-  </a>
   <a href="https://your-certification-link.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/EC-Council_Certified_Ethical_Hacker_logo.png" width="120" alt="BSc. Ethical Hacking and Cybersecurity">
   </a>
