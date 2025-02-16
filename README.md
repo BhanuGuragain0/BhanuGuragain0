@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="650" alt="Hacker Vibes">
 </p>
----
 
 ## 🦇 About Me
 
