@@ -21,6 +21,7 @@
 ```diff
 + Hacker | AI Engineer | Red Teamer | Security Researcher
 - Breaking & Securing Systems with AI-driven Cybersecurity
+- BSc. Ethical Hacking and Cybersecurity | OSCP Preparing
 ```
 
 I specialize in **offensive security**, building **custom C2 frameworks**, and crafting **AI-driven hacking tools**. Passionate about blending technology with creative problem-solving to stay ahead in the cybersecurity game.
@@ -83,19 +84,6 @@ I specialize in **offensive security**, building **custom C2 frameworks**, and c
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BhanuGuragain0&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies">
-</p>
-
----
-
-## 📜 Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/badges/your-badge-id">
-    <img src="https://img.shields.io/badge/OSCP-FFD43B?style=for-the-badge&logo=linux&logoColor=black" alt="OSCP Preparing">
-  </a>
-  <a href="https://your-certification-link.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/EC-Council_Certified_Ethical_Hacker_logo.png" width="120" alt="BSc. Ethical Hacking and Cybersecurity">
-  </a>
 </p>
 
 ---
