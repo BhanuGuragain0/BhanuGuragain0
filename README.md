@@ -1,11 +1,11 @@
 <!-- 🚀 Shadow@Bhanu 😈 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+Shadow+Junior+%7C+Bhanu+Guragain+%E2%9A%A1;Cyber+Security+%7C+AI+%7C+Automation;Exploiting+%26+Securing+the+Future!" alt="Shadow Junior | Bhanu Guragain">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+Shadow+Junior+%7C+Bhanu+Guragain+%E2%9A%A1;Cyber+Security+%7C+AI+%7C+Automation;Exploiting+%26+Securing+the+Future!" alt="Shadow Junior | Bhanu Guragain">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hWZBZjMMuMl7sWe0x8/giphy.gif" width="600" alt="Hacker Vibes">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Hacker Vibes">
 </p>
 
 <p align="center">
@@ -13,6 +13,8 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=BhanuGuragain0" alt="Visitor Badge"/>
   </a>
 </p>
+
+---
 
 ---
 
@@ -96,6 +98,9 @@ I specialize in **offensive security**, building **custom C2 frameworks**, and c
   <a href="https://www.credly.com/badges/your-badge-id">
     <img src="https://img.shields.io/badge/CEH-FF6F61?style=for-the-badge&logo=linux&logoColor=white" alt="CEH Certified">
   </a>
+  <a href="https://your-certification-link.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/EC-Council_Certified_Ethical_Hacker_logo.png" width="120" alt="BSc. Ethical Hacking and Cybersecurity">
+  </a>
 </p>
 
 ---
@@ -108,7 +113,7 @@ I specialize in **offensive security**, building **custom C2 frameworks**, and c
 
 ---
 
-## 🛸 Hack the World, Stay in the Shadows! 😈
+## 🔓 Decrypt lies💀 exploit power🕶️ free the truth🥱 leave nothing but shadows🤘🛸
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Hack the World">
