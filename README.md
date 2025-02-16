@@ -157,15 +157,3 @@ I'm dedicated to offensive security, building custom C2 frameworks, and crafting
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Hack the World">
 </p>
-
----
-
-### Key Additions:
-1. **Certifications Section:** Added badges for certifications like OSCP, CEH, and AWS.
-2. **Blog Section:** Links to your Medium or Dev.to blog for showcasing your writings.
-3. **Enhanced Tech Stack:** Added more tools and technologies to the tech stack.
-4. **Improved Visuals:** Cleaner badges, better alignment, and more professional design.
-
----
-
-This version is **fully enhanced** and ready to make your GitHub profile stand out! 🚀 Let me know if you need further tweaks! 😊
