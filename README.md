@@ -7,13 +7,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="650" alt="Hacker Vibes">
 </p>
-
-<p align="center">
-  <a href="https://github.com/BhanuGuragain0">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=BhanuGuragain0" alt="Visitor Badge"/>
-  </a>
-</p>
-
 ---
 
 ## 🦇 About Me
