@@ -34,7 +34,6 @@ I specialize in **offensive security**, building **custom C2 frameworks**, and c
 - **🛡️ AI-Powered Pentesting:** Automating exploit development using AI.
 - **🌐 Cyberpunk Hacker Website:** Dark-themed, interactive hacker portal (**GSAP**, **Three.js**).
 - **🧠 Jarvis-like AI Assistant:** Enhancing hacking workflows with automation.
-- **📈 Crypto Trading Bot:** High-frequency algorithmic trading.
 - **🕵️ Custom C2 Framework:** Advanced command & control system for red team ops.
 
 ---
@@ -53,8 +52,6 @@ I specialize in **offensive security**, building **custom C2 frameworks**, and c
 
 - 🚀 I automate everything, **hack for fun**, and build AI-driven cyber tools.
 - 🕵️ If it exists, **I can hack it**. If it's broken, **I can fix it**.
-- 🧠 I believe the **future of hacking is AI + Automation**.
-- 🎯 I excel in **CTFs**, **recon**, and **exploit crafting**.
 - 💡 Dreaming of a **fully autonomous AI hacker**.
 
 ---
