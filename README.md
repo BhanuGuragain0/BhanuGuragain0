@@ -1,7 +1,7 @@
 <!-- 🚀 Shadow@Bhanu 😈 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=5000&color=00FF00&center=true&vCenter=true&width=750&height=65&lines=%E2%9A%A1+Shadow@Bhanu+%7C+Ethical+Hacker+with+AI+and+Machine+Learning+%E2%9A%A1;Exploiting+and+Securing+the+Future!" alt="Shadow@Bhanu | Ethical Hacker with AI and Machine Learning">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=5000&color=00FF00&center=true&vCenter=true&width=750&height=65&lines=%E2%9A%A1+Shadow@Bhanu+%E2%9A%A1;Ethical+Hacker+with+AI+and+Machine+Learning+%E2%9A%A1;Exploiting+and+Securing+the+Future!" alt="Shadow@Bhanu">
 </h1>
 
 <p align="center">
