@@ -16,14 +16,14 @@
 - BSc. Ethical Hacking and Cybersecurity | OSCP Preparing
 ```
 
-I specialize in **offensive security**, building **custom C2 frameworks**, and crafting **AI-driven hacking tools**. Passionate about blending technology with creative problem-solving to stay ahead in the cybersecurity game.
+I specialize in **offensive security**, building **custom C2 frameworks** and crafting **AI-driven hacking tools**. Passionate about blending technology with creative problem-solving to stay ahead in the cybersecurity game.
 
 ---
 
 ## 🛠️ Skills & Expertise
 
 - **🔺 Penetration Testing & Red Teaming:** CTFs, vulnerability assessments, security audits.
-- **🔹 Exploit Development & Reverse Engineering:** Crafting, analyzing, and bypassing security.
+- **🔹 Exploit Development & Reverse Engineering:** Crafting, analyzing and bypassing security.
 - **⚡ AI-Driven Hacking & Automation:** Using AI for cyber defense & offense.
 - **💻 Scripting & Automation:** Python, Bash – optimizing workflows like a machine.
 
@@ -50,7 +50,7 @@ I specialize in **offensive security**, building **custom C2 frameworks**, and c
 
 ## ⚡ Fun Facts
 
-- 🚀 I automate everything, **hack for fun**, and build AI-driven cyber tools.
+- 🚀 I automate everything, **hack for fun** and build AI-driven cyber tools.
 - 🕵️ If it exists, **I can hack it**. If it's broken, **I can fix it**.
 - 💡 Dreaming of a **fully autonomous AI hacker**.
 
