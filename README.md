@@ -11,7 +11,7 @@
 ## 🦇 About Me
 
 ```diff
-+ Hacker | AI Engineer | Red Teamer | Security Researcher
++ Hacker | Offensive AI Engineer | Junior Red Team operator | Malware engineer | 
 - Breaking & Securing Systems with AI-driven Cybersecurity
 - BSc. Ethical Hacking and Cybersecurity | OSCP Preparing
 ```
