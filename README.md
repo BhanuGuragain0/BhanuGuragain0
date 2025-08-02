@@ -1,6 +1,6 @@
 <!-- 🔥 Shadow Junior | Elite Red Team Operator 😈 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&color=FF0040&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%94%A5+Shadow+Junior+%7C+Elite+Red+Team+%F0%9F%94%A5;%23%33+Ranked+HTB+Nepal+%E2%9A%A1;AI-Driven+Cyber+Arsenal+%F0%9F%92%80;Exploiting+Tomorrow%27s+Threats+Today!" alt="Shadow Junior">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&color=FF0040&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%94%A5+Shadow@Bh4nu+Junior+Red+Teamer+%F0%9F%94%A5;AI-Driven+Cyber+Arsenal+%F0%9F%92%80;Exploiting+Tomorrow%27s+Threats+Today!" alt="Shadow@Bh4nu">
 </h1>
 
 <p align="center">
