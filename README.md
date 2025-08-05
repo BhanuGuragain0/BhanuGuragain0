@@ -32,7 +32,7 @@
 ║  🎯 OPERATIVE: Shadow Junior (Bhanu Guragain)                                                ║
 ║  💀 CODENAME: Bh4nu | Classification: ULTRA BLACK | Clearance Level: BEYOND TOP SECRET       ║
 ║  🔴 DESIGNATION: Junior Red Team Operator | AI Warfare Specialist | Cyber Gladiator          ║
-║  ⚡ MISSION STATUS: Active Black Ops | Next-Gen Arsenal Development | Reality Exploitation    ║
+║  ⚡ MISSION STATUS: Active Black Ops | Next-Gen Arsenal Development | Reality Exploitation   ║
 ║  🚀 THREAT LEVEL: MAXIMUM | Innovation Index: BEYOND HUMAN SCALE | Matrix Access: GRANTED    ║
 ║                                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
@@ -232,7 +232,7 @@
 
 <div align="center">
 
-**💀 Remember: In the digital realm, we are not just hackers - we are architects of reality itself 💀**
+**💀 Remember: In the digital realm, we are not just hackers we are architects of reality itself 💀**
 
 </div>
 
