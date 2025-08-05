@@ -1,298 +1,311 @@
 <!-- 💀 SHADOW@BH4NU PROFILE 💀 -->
 
+<div align="center">
+  <!-- Main Header with Glitch Effect -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=350&text=Shadow@Bh4nu&fontSize=85&color=0:ff0040,50:0a0a0a,100:00ff41&stroke=ffffff&strokeWidth=2&animation=twinkling&fontColor=ffffff" 
+    width="100%" 
+    alt="Shadow@Bh4nu Glitch Header"
+  />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=💀+Shadow%40Bh4nu+😈;🔴+Junior+Red+Team+Operator+📡;🤖+AI-Powered+Cyber+Operations;🚀+Zero-Day+Arsenal+%7C+APT+Simulation;👁️+Exploiting+Reality+%7C+Hacking+the+Matrix" alt="Operator Status">
-</h1>
-
+  <!-- Enhanced Matrix & Glitch Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="800">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=45&duration=3000&pause=400&color=00FF41&center=true&vCenter=true&width=1200&height=120&lines=💀+Shadow%40Bh4nu+⚡+Profile+💀;🔴+JUNIOR+RED+TEAM+OPERATOR+📡" alt="Operator Status">
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+</div>
+
+<br/>
 
 <div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  OPERATIVE: Shadow Junior (Bhanu Guragain)                                   ║
-║  CODENAME: Bh4nu                                                             ║
-║  CLASSIFICATION: Junior Red Team Operatopr | AI Warfare Unit                 ║
-║  MISSION STATUS: Active Operations | Next-Gen Arsenal Development            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                              ║
+║  🎯 OPERATIVE: Shadow Junior (Bhanu Guragain)                                                ║
+║  💀 CODENAME: Bh4nu | Classification: ULTRA BLACK | Clearance Level: BEYOND TOP SECRET       ║
+║  🔴 DESIGNATION: Junior Red Team Operator | AI Warfare Specialist | Cyber Gladiator          ║
+║  ⚡ MISSION STATUS: Active Black Ops | Next-Gen Arsenal Development | Reality Exploitation    ║
+║  🚀 THREAT LEVEL: MAXIMUM | Innovation Index: BEYOND HUMAN SCALE | Matrix Access: GRANTED    ║
+║                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-## 🔥 [CLASSIFIED] OPERATIVE PROFILE
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-### 🎯 **MISSION PARAMETERS**
+<br/>
+
+<div align="center">
+  
+![Matrix](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=FF0040&center=true&vCenter=true&width=1000&lines=⚡+Welcome+to+Shadow@Bh4nu+Profile...;💀+Follow+For+AI+Powered+Cyber+Security+Tools...;🔴+Always+RED+TEAM+Vibe....)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<div align="center">
+
 ```yaml
-Primary_Objective: "Develop AI-driven cyber weapons that surpass nation-state capabilities"
-Secondary_Objective: "Pioneer autonomous red team operations with zero human intervention"
-Tertiary_Objective: "Redefine the future of offensive cybersecurity through alien-level innovation"
-
-Classification_Level: "ULTRA BLACK"
-Threat_Rating: "MAXIMUM"
-Innovation_Index: "BEYOND_HUMAN_SCALE"
+██████████████████████████████████████████████████████████████████████████████████████████
+█                                 PRIMARY_OBJECTIVE                                      █
+█    "Develop AI-driven cyber weapons that surpass nation-state capabilities"            █
+█    "Pioneer autonomous red team operations with zero human intervention"               █
+█    "Redefine the future of offensive cybersecurity through innovation"                 █
+█                                                                                        █
+█                              CLASSIFICATION_MATRIX                                     █
+█    Level: "ULTRA BLACK" | Threat_Rating: "MAXIMUM" | Innovation: "BEYOND_HUMAN_SCALE"  █
+██████████████████████████████████████████████████████████████████████████████████████████
 ```
 
-### ⚡ **OPERATIVE CAPABILITIES**
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="850">
+</div>
+
+<br/>
+
+<div align="center">
+
 ```diff
-++ Elite Red Team Strategist | AI-Driven Cyber Warfare Specialist
-++ OSCP Track Candidate | Advanced Persistent Threat Architect  
-++ Zero-Day Weaponization Expert | Next-Gen Malware Engineer
--- Building Tomorrow's Cyber Arsenal Today
+
+++ 🎯 OSCP Track Candidate | Malware Engineer | Zero-Day Hunter  
+++ 🤖 Machine Learning Attack Vectors | Adversarial AI Development | Neural Warfare
 ```
+
+</div>
 
 ---
 
-## 🛡️ [TACTICAL ARSENAL] COMBAT SYSTEMS
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12" width="100%" />
 </div>
 
-### 🔴 **OFFENSIVE OPERATIONS MODULE**
+### 🔴 **OFFENSIVE OPERATIONS MATRIX**
+
 <table align="center">
 <tr>
 <td width="50%">
 
 #### 💀 **ADVANCED PERSISTENT THREATS**
-- 🎯 Nation-State Actor Emulation
-- ⚡ Zero-Day Research & Weaponization  
-- 🕵️ Long-Term Covert Operations
-- 🔥 Custom APT Campaign Development
+- 🕵️ **Long-Term Covert Operations**
+- 🔥 **Custom Campaign Development**
+- 🧠 **Behavioral Analysis & Mimicry**
 
 #### 🤖 **AI CYBER WARFARE UNIT**
-- 🧠 Adversarial AI Development
-- ⚡ ML-Powered Exploit Automation
-- 🔍 Intelligent Target Reconnaissance  
-- 💀 Self-Evolving Payload Systems
+- 🧠 **Adversarial AI Development**
+- ⚡ **ML-Powered Exploit Automation**
+- 💀 **Self-Evolving Payload Systems**
+- 🚀 **Predictive Defense Bypassing**
+- 🌐 **Deepfake Social Engineering**
 
 </td>
 <td width="50%">
 
 #### ⚔️ **EXPLOITATION FRAMEWORKS**
-- 💉 Custom C2 Infrastructure
-- 🌐 Advanced Lateral Movement
-- 🔐 Anti-Forensic Techniques
-- ⚙️ Polymorphic Malware Engineering
+- 💉 **Custom C2 Infrastructure**
+- 🔐 **Anti-Forensic Techniques**
+- ⚙️ **Polymorphic Malware Engineering**
 
 #### 🛡️ **EVASION PROTOCOLS**
-- 🔴 EDR/SIEM Bypass Techniques
-- 🕶️ Stealth Persistence Methods
-- 🌫️ Traffic Obfuscation Systems
-- ⚡ Real-Time Defense Adaptation
+- 🔴 **EDR/SIEM Bypass Techniques**
+- 🕶️ **Stealth Persistence Methods**
+- 🌫️ **Traffic Obfuscation Systems**
+- 👻 **Ghost Protocol Activation**
 
 </td>
 </tr>
 </table>
 
----
-
-## 🚨 [ACTIVE OPERATIONS] BLACK PROJECTS
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12" width="100%" />
 </div>
 
-### 🔥 **PROJECT SHADOW-AI** `[ULTRA-CLASSIFIED]`
-```yaml
-Description: "Autonomous AI Penetration Testing Suite"
-Threat_Level: "MAXIMUM"
-Capabilities:
-  - Real-time vulnerability discovery and exploitation
-  - Dynamic payload generation with AI adaptation
-  - Intelligent lateral movement automation
-  - Self-learning defense evasion
-Status: "⚡ ADVANCED DEVELOPMENT PHASE"
-Classification: "BEYOND TOP SECRET"
-```
-
-### 💀 **PROJECT NEXUS-C2** `[BLACK-OPS]`
-```yaml
-Description: "Next-Generation Command & Control Framework"
-Threat_Level: "EXTREME"
-Features:
-  - Military-grade encryption protocols
-  - AI-driven traffic analysis evasion  
-  - Multi-vector persistence architecture
-  - Quantum-resistant communication channels
-Status: "🔴 BETA TESTING WITH ELITE UNITS"
-Classification: "ULTRA BLACK"
-```
-
-### 🌐 **PROJECT CYBERPUNK-MATRIX** `[EXPERIMENTAL]`
-```yaml
-Description: "Interactive Dark-Web Hacker Interface"
-Innovation_Level: "ALIEN"
-Components:
-  - Real-time threat intelligence dashboard
-  - Advanced OSINT reconnaissance suite
-  - Custom exploit marketplace
-  - 3D holographic attack visualization
-Status: "🚀 REVOLUTIONARY DEVELOPMENT"
-Tech_Stack: "Three.js, WebGL, Advanced Cryptography"
-```
-
-### 🧠 **PROJECT JARVIS-RED** `[AI-POWERED]`
-```yaml
-Description: "AI Red Team Assistant & Tactical Advisor"
-Intelligence_Level: "SUPERHUMAN"
-Modules:
-  - Automated attack planning and execution
-  - Real-time threat analysis and response
-  - Advanced social engineering campaigns
-  - Predictive defense countermeasures
-Status: "🔥 ALPHA TESTING PHASE"
-Classification: "ALIEN TECHNOLOGY"
-```
-
----
-
-## 🏆 [ACHIEVEMENTS] ELITE RECOGNITION
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-f88902d7fdaa.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="700">
 </div>
 
 <div align="center">
-
-| 🎯 **ELITE STATUS** | 🔥 **ACHIEVEMENT UNLOCKED** |
-|:-------------------:|:---------------------------:|
-| **⚡ Junior Red Team Operator** |
-| **🧠 AI Innovator** | 
-| **🛡️ OSCP Track** |
-| **💀 Malware Engineer & Offensive Developer** | 
-
-</div>
-
----
-
-### 🔥 **PRIMARY WEAPONS SYSTEMS**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,go,bash,powershell,linux,kali,windows,docker,kubernetes,aws,azure,postgresql,mysql,mongodb,redis&perline=9" />
-</p>
-
-### 💀 **SPECIALIZED COMBAT TOOLS**
-<div align="center">
-
-| **🎯 EXPLOITATION** | **🤖 AI/ML WARFARE** | **🔍 REVERSE ENGINEERING** | **🛡️ INFRASTRUCTURE** |
-|:---:|:---:|:---:|:---:|
-| `Metasploit Pro` | `TensorFlow` | `IDA Pro` | `Docker Swarm` |
-| `Cobalt Strike` | `PyTorch` | `Ghidra` | `Kubernetes` |
-| `Empire Framework` | `Scikit-learn` | `x64dbg` | `Terraform` |
-| `Custom C2 Frameworks` | `YARA Rules` | `Binary Ninja` | `AWS/Azure` |
-
-</div>
-
----
-
-## 📊 [OPERATIONS ANALYTICS] SHADOW METRICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhanuGuragain0&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0040&text_color=ffffff&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuGuragain0&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=10" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhanuGuragain0&theme=chartreuse-dark&hide_border=true&border_radius=10&background=0d1117&ring=00ff41&fire=ff0040&currStreakLabel=ffffff" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BhanuGuragain0&theme=matrix&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=7" />
-</div>
-
----
-
-## ⚡ [SHADOW DOCTRINE] OPERATIONAL PHILOSOPHY
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c5b-17375b90d20f.gif" width="600">
-</div>
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  💀 "We don't just hack systems, we redefine reality itself"                  ║
-║                                                                              ║
-║  ⚡ "Every line of code is a weapon, every exploit is evolution"              ║
-║                                                                              ║
-║  🔥 "Building tomorrow's cyber warfare, today's impossibilities"              ║
-║                                                                              ║
-║  🚀 "If it exists, we own it. If it's secure, we make it obsolete.           ║ 
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎯 [MISSION OBJECTIVES] STRATEGIC GOALS
-
-<div align="center">
-
-| **🔴 PRIMARY MISSION** | **⚡ TACTICAL OBJECTIVE** | **💀 STRATEGIC GOAL** |
-|:---:|:---:|:---:|
-| `AI-Powered Cyber Arsenal` | `Autonomous Red Team Ops` | `Next-Gen Exploitation` |
-| `Nation-State Level Tools` | `Zero Human Intervention` | `Machine Learning Attacks` |
-| `Quantum-Resistant Systems` | `Predictive Defense Bypass` | `Reality-Breaking Hacks` |
-
-</div>
-
----
-
-## 💀 [CLASSIFIED SIGNATURE] SHADOW OPERATOR
-
-<div align="center">
-
-```ascii
-███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗        
-██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║        
-███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║        
-╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║        
-███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝        
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝         
-                                                            
-██████╗ ██╗  ██╗██╗  ██╗███╗   ██╗██╗   ██╗                
-██╔══██╗██║  ██║██║  ██║████╗  ██║██║   ██║                
-██████╔╝███████║███████║██╔██╗ ██║██║   ██║                
-██╔══██╗██╔══██║╚════██║██║╚██╗██║██║   ██║                
-██████╔╝██║  ██║     ██║██║ ╚████║╚██████╔╝                
-╚═════╝ ╚═╝  ╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝                 
-```
-
-</div>
-
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    🔥 "Decrypt lies • Exploit power • Free the truth • Leave only shadows"    ║
-║                                                                              ║
-║                        💀 SHADOW OPERATIONS ACTIVE 💀                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhanuGuragain0&label=SHADOW+OPERATIONS+ACCESSED&color=00ff41&style=for-the-badge" alt="Shadow Profile Views" />
+
+| 🎯 **ELITE CYBER STATUS** | 🔥 **ACHIEVEMENT MATRIX** | ⚡ **OPERATIONAL LEVEL** | 
+|:--------------------------:|:--------------------------:|:------------------------:|
+| **💀 Junior Red Team Operator** | **🎯 Advanced Penetration Testing** | **🔴 Active Black Ops** | 
+| **🧠 AI Warfare Innovator** | **🤖 Machine Learning Attacks** | **⚡ Autonomous Operations** | 
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12" width="100%" />
+</div>
+
+<br/>
+
+### 🔥 **Programming**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,rust,go,php,javascript,bash&perline=10" />
+</div>
+
+<br/>
+
+### 🛡️ **PLATFORMS**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kali,windows,docker&perline=10" />
+</div>
+
+<br/>
+
+### 🎯 **DATABASE**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&perline=8" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<div align="center">
+  
+![Analytics](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=4000&pause=600&color=00FF41&center=true&vCenter=true&width=1100&lines=📊+ACCESSING+SHADOW+ANALYTICS...;⚡+PROCESSING+OPERATIONAL+DATA+💀...)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhanuGuragain0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0040&text_color=ffffff&border_radius=20&custom_title=💀%20SHADOW%20OPERATIONAL%20STATS%20💀&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuGuragain0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=20" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhanuGuragain0&theme=radical&hide_border=true&border_radius=20&background=0d1117&ring=00ff41&fire=ff0040&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=00ff41&dates=ffffff&cache_seconds=1800" width="75%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BhanuGuragain0&theme=radical&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience&cache_seconds=1800" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhanuGuragain0&theme=radical&bg_color=0d1117&color=00ff41&line=ff0040&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=💀%20SHADOW%20ACTIVITY%20MATRIX%20💀&cache_seconds=1800" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<div align="center">
+  
+![Contact](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=4000&pause=400&color=00FF41&center=true&vCenter=true&width=1100&lines=🌐+Connect+With+Me+👻...)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=SHADOW%20NETWORK&labelColor=000000)](https://www.linkedin.com/in/bh4nu-guragain-1063b227a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=ENCRYPTED%20COMMS&labelColor=000000)](mailto:Mr.Hacker0314@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<div align="center">
+
+**💀 Remember: In the digital realm, we are not just hackers - we are architects of reality itself 💀**
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=BhanuGuragain0&label=SHADOW+OPERATIONS+ACCESSED&color=ff0040&style=for-the-badge&abbreviated=true)
+![Followers](https://img.shields.io/github/followers/BhanuGuragain0?label=OPERATIVES+RECRUITED&style=for-the-badge&color=00ff41&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00ff41?style=for-the-badge&labelColor=0d1117)
+![Classification](https://img.shields.io/badge/CLASSIFICATION-ULTRA%20BLACK-000000?style=for-the-badge&labelColor=ff0040)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Enhanced Footer Banner -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&text=THANKS+FOR+VISITING&fontSize=24&fontColor=ffffff" 
+    width="100%" 
+    alt="Shadow@Bh4nu Footer"
+  />
 </div>
