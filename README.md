@@ -7,15 +7,15 @@
     width="100%" 
     alt="Shadow@Bh4nu Glitch Header"
   />
-
-  <!-- Enhanced Matrix & Glitch Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=45&duration=3000&pause=400&color=00FF41&center=true&vCenter=true&width=1200&height=120&lines=💀+Shadow%40Bh4nu+⚡+Profile+💀;🔴+JUNIOR+RED+TEAM+OPERATOR+📡" alt="Operator Status">
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 <br/>
 
 <div align="center">
