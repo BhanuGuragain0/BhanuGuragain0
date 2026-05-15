@@ -10,7 +10,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=820&lines=HTB+Elite+Hacker+%7C+%231+Nepal+%F0%9F%87%B3%F0%9F%87%B5+%7C+Top+100+Global+%F0%9F%8C;Offensive+Security+Engineer+%7C+AI+Red+Team+Architect;Zero-Day+Researcher+%7C+Exploit+Developer;Adversarial+AI+%7C+Post-Quantum+Cryptography+%7C+C2+Engineering"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=820&lines=HTB+Elite+Hacker;Offensive+Security+Engineer+%7C+AI+Red+Team+Architect;Zero-Day+Researcher+%7C+Exploit+Developer;Adversarial+AI+%7C+Post-Quantum+Cryptography+%7C+C2+Engineering"
     alt="Typing SVG"
   />
 </div>
