@@ -32,9 +32,7 @@
 ║  🎯 OPERATIVE: Shadow Junior (Bhanu Guragain)                                                ║
 ║  💀 CODENAME: Bh4nu | Classification: ULTRA BLACK | Clearance Level: BEYOND TOP SECRET       ║
 ║  🔴 DESIGNATION: Junior Red Team Operator | AI Warfare Specialist | Cyber Gladiator          ║
-║  ⚡ MISSION STATUS: Active Black Ops | Next-Gen Arsenal Development | Reality Exploitation   ║
-║  🚀 THREAT LEVEL: MAXIMUM | Innovation Index: BEYOND HUMAN SCALE | Matrix Access: GRANTED    ║
-║                                                                                              ║
+║  ⚡ MISSION STATUS: Next-Gen Arsenal Development                                             ║                                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -61,7 +59,7 @@
 ```yaml
 ██████████████████████████████████████████████████████████████████████████████████████████
 █                                 PRIMARY_OBJECTIVE                                      █
-█    "Develop AI-driven cyber weapons that surpass nation-state capabilities"            █
+█    "Develop AI-driven Tools                                               "            █
 █    "Pioneer autonomous red team operations with zero human intervention"               █
 █    "Redefine the future of offensive cybersecurity through innovation"                 █
 █                                                                                        █
@@ -79,7 +77,7 @@
 <div align="center">
 
 ```diff
-++ 🎯 OSCP Track Candidate | Malware Engineer | Zero-Day Hunter  
+++ 🎯 OSCP Track Candidate | Offensive Security Engineer  
 ++ 🤖 Machine Learning Attack Vectors | Adversarial AI Development | Neural Warfare
 ```
 
