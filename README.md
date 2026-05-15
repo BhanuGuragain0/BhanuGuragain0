@@ -134,28 +134,6 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=600&color=00FF41&center=true&vCenter=true&width=900&lines=📊+SHADOW+ANALYTICS+%7C+ACCESSING+OPERATIONAL+DATA..."
-    alt="Analytics Header"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BhanuGuragain0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0040&text_color=c9d1d9&border_radius=12&custom_title=💀%20SHADOW%20OPERATIONAL%20STATS&cache_seconds=1800"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuGuragain0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_radius=12&langs_count=8&cache_seconds=1800"
-    width="49%"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
     src="https://streak-stats.demolab.com/?user=BhanuGuragain0&theme=radical&hide_border=true&border_radius=12&background=0d1117&ring=00ff41&fire=ff0040&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=00ff41&dates=666666&cache_seconds=1800"
     width="72%"
   />
